@@ -1,4 +1,4 @@
-# minigame 2
+# Jason Jung - minigame 2
 ## Devlog
 1. I didn't get any errors in my code so the error I fixed in the if-statement was that after the if, there wasn't an expression as _timeleft <= 0.0 didn't have parentheses to make it an expression.
 2. I think that line of code changes the color from bright red to dark red. The two 0.2fs are probably the color value for the color red and the r corresponds to the brightness value of the color. When the chest is hit with the spell, r goes down which makes the red color darker.
